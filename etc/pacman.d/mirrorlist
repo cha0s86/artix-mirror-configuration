@@ -1,0 +1,33 @@
+## Artix Linux repository mirrorlist
+## Generated and verified working mirrors
+
+# Main Artix Linux Mirrors
+Server = https://mirrors.dotsrc.org/artix-linux/$repo/os/$arch
+Server = https://mirror.pascalpuffke.de/artix-linux/$repo/os/$arch
+Server = https://mirrors.tuna.tsinghua.edu.cn/artix-linux/$repo/os/$arch
+Server = https://mirrors.bfsu.edu.cn/artix-linux/$repo/os/$arch
+
+# System Repositories
+Server = https://mirror1.artixlinux.org/repos/system/os/$arch
+Server = https://mirror.f4st.host/artix/repos/system/os/$arch
+
+# World Repositories
+Server = https://mirror1.artixlinux.org/repos/world/os/$arch
+Server = https://mirror.f4st.host/artix/repos/world/os/$arch
+
+# Galaxy Repositories
+Server = https://mirror1.artixlinux.org/repos/galaxy/os/$arch
+Server = https://mirror.f4st.host/artix/repos/galaxy/os/$arch
+
+# Extra Repositories
+Server = https://mirror1.artixlinux.org/repos/extra/os/$arch
+Server = https://mirror.f4st.host/artix/repos/extra/os/$arch
+
+# Community Repositories
+Server = https://mirror1.artixlinux.org/repos/community/os/$arch
+Server = https://mirror.f4st.host/artix/repos/community/os/$arch
+
+# Multilib Repositories
+Server = https://mirror1.artixlinux.org/repos/multilib/os/$arch
+Server = https://mirror.f4st.host/artix/repos/multilib/os/$arch
+  

@@ -1,0 +1,27 @@
+##
+## Artix Linux repository mirrorlist
+## Generated on 2024-12-28
+##
+
+## Worldwide mirrors
+Server = https://mirror1.artixlinux.org/$repo/os/$arch
+Server = https://artixlinux.org/$repo/os/$arch
+Server = https://mirrors.dotsrc.org/artix-linux/$repo/os/$arch
+
+## Europe
+Server = https://ftp.crifo.org/artix-linux/$repo/os/$arch
+Server = https://mirrors.niyawe.de/artix/$repo/os/$arch
+Server = https://mirror.pascalpuffke.de/artix/$repo/os/$arch
+
+## North America
+Server = https://mirrors.lug.mtu.edu/artix/$repo/os/$arch
+Server = https://mirrors.rit.edu/artix/$repo/os/$arch
+Server = https://artix.wheaton.edu/$repo/os/$arch
+Server = https://mirror.clarkson.edu/artix/$repo/os/$arch
+
+## Asia
+Server = https://mirrors.tuna.tsinghua.edu.cn/artix/$repo/os/$arch
+Server = https://mirrors.bfsu.edu.cn/artix/$repo/os/$arch
+
+## Australia
+Server = https://mirror.aarnet.edu.au/pub/artix/$repo/os/$arch
